@@ -1,0 +1,10 @@
+tags
+*.swp
+COPYING
+INSTALL
+missing
+install-sh
+*.m4
+Makefile.in
+configure
+depcomp
